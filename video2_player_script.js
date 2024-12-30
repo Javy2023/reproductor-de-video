@@ -1,10 +1,10 @@
 <style>
     /* Contenedor del video */
     .video-container {
-        max-width: 600px; /* Ancho máximo */
+        max-width: auto; /* Ancho máximo */
         margin: auto; /* Centrado y margen superior/inferior */
         padding: 0px; /* Espaciado interno */
-        border-radius: 10px; /* Bordes redondeados */
+        border-radius: 20px; /* Bordes redondeados */
         background: linear-gradient(145deg, #ffffff, #f0f0f0); /* Fondo degradado */
         box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2), -5px -5px 15px rgba(255, 255, 255, 0.5); /* Efecto de neomorfismo */
     }
